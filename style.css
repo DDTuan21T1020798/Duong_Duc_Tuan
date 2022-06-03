@@ -282,7 +282,7 @@ a {
 
 .social {
   position: absolute;
-  bottom: 2rem;
+  bottom: 0rem;
   right: 0;
   width: 25rem;
   height: 4rem;
@@ -290,7 +290,7 @@ a {
   padding: 1rem;
   background-color: #0055ee;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
 }
 
@@ -308,18 +308,8 @@ a {
   margin-right: 1rem;
 }
 
-.social .social-box .social-icons {
-  font-size: 1.7rem;
-  color: #fff;
-  margin-bottom: 0.2rem;
-}
-
-.social .social-box .social-icons i {
-  margin: 0 0.2rem;
-}
-
 .social .social-box .social-text {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   color: #fff;
 }
 
